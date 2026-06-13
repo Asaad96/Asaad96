@@ -71,7 +71,7 @@
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaad-baz-177297223/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AsaadBaz_Official)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Asaad_Baz_Dev)
 [![Resume](https://img.shields.io/badge/Resume-Website-green?style=flat)](https://asaad96.github.io/Asaad_Baz_Resume/)
 
 ---
