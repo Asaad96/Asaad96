@@ -68,6 +68,11 @@
 
 ---
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Asaad_Baz_Dev)](https://github.com/Asaad96)
+
+
+---
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaad-baz-177297223/)
