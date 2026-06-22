@@ -68,7 +68,7 @@
 
 ---
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Asaad Baz)](https://github.com/Asaad96)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Asaad_Baz_Dev)](https://github.com/Asaad96)
 
 
 ---
